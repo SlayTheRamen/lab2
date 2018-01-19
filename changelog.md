@@ -6,3 +6,4 @@ R.Y.
 - Added changelog
 - Added tooltip
 - Fixed bugs
+- Added quote to actor page 
